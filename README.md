@@ -92,7 +92,7 @@ Abaixo estão prints das versões para mostrar a evolução do projeto.
 ## ▶ Execução
 
 ```
-cd Hangmam-game
-Hangman Game.py
+cd Hangmam-game.py
+Hangman-game.py
 ```
 
