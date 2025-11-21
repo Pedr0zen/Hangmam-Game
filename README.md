@@ -92,6 +92,7 @@ Abaixo estão prints das versões para mostrar a evolução do projeto.
 ## ▶ Execução
 
 ```
+git clone https://github.com/Pedr0zen/Hangmam-Game/blob/main/Hangman-game.py
 cd Hangmam-game.py
 Hangman-game.py
 ```
